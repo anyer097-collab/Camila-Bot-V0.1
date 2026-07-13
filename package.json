@@ -1,5 +1,5 @@
 {
-  "name": "my-telegram-bot",
+  "name": "camila-bot-v0.1",
   "version": "1.0.0",
   "description": "Bot de Telegram modular con RPG, economía, descargas y más",
   "main": "src/bot.js",
